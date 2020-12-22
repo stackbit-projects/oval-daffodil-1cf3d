@@ -21,11 +21,6 @@
                 "label": "Pricing",
                 "url": "/pricing",
                 "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
